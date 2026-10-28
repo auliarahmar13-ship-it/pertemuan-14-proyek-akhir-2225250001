@@ -80,9 +80,11 @@ python src/main.py
 
 ## Status Proyek
 
-Tahap saat ini: **Perancangan Proyek (Pertemuan 14)**.
+Tahap saat ini: **Implementasi, Pengujian, Debugging, dan Dokumentasi (Pertemuan 15)**.
 
-Tahap selanjutnya adalah implementasi, pengujian, debugging, dan dokumentasi program pada Pertemuan 15, kemudian presentasi atau demonstrasi pada Pertemuan 16.
+Program telah diimplementasikan dan pengujian TC01–TC06 telah dilakukan. Hasil pengujian sesuai dengan hasil yang diharapkan.
+
+Tahap selanjutnya adalah presentasi atau demonstrasi proyek pada Pertemuan 16.
 
 ## Repository GitHub
 
