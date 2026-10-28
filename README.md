@@ -86,4 +86,4 @@ Tahap selanjutnya adalah implementasi, pengujian, debugging, dan dokumentasi pro
 
 ## Repository GitHub
 
-Tautan repository akan ditambahkan setelah repository GitHub dibuat.AS
+(https://github.com/auliarahmar13-ship-it/pertemuan-14-proyek-akhir-2225250001)
